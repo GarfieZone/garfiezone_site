@@ -48,6 +48,7 @@ let postsArray = [
 //[ "posts/" ],
 //[ "posts/" ],
 //[ "posts/" ],
+[ "posts/2025-07-31-Trying-to-be-a-creative.html" ],
 [ "posts/2023-10-24-Sansui-AV-99.html" ],
 [ "posts/2023-10-24-The-Slicer.html" ],
 [ "posts/2023-10-23-Nature-and-peace.html" ],
@@ -86,7 +87,7 @@ let headerHTML = '<ul> <li><a href="' + relativePath + '/index.html">Home</a></l
 
 //Generate the Footer HTML, which uses the variables defined in the BASIC INFO section above to list info about the site.
 //Note: feel free to remove the references to Zonelets and Neocities! Just be careful not to delete any necessary HTML closing tags or other syntax.
-let footerHTML = "<hr><p>" + blogName + " is written by <a href='" + authorLink + "'>" + authorName + "</a>, built with <a href='https://zonelets.net/'>Zonelets</a>, and hosted by <a href='https://neocities.org/'>Neocities!</a></p>";
+let footerHTML = "<hr><p>" + blogName + " is written by <a href='" + authorLink + "'>" + authorName + "</a>, built with <a href='https://zonelets.net/'>Zonelets</a>, and hosted by <a href='https://github.com/'>GitHub!</a></p>";
 
 //To do the following stuff, we want to know where we are in the posts array (if we're currently on a post page).
 let currentIndex = -1;
