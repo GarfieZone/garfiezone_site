@@ -47,7 +47,8 @@ let postsArray = [
 //[ "posts/" ],
 //[ "posts/" ],
 //[ "posts/" ],
-//[ "posts/" ],
+//[ "posts/2025-08-09-The-Autism-Thang.html" ],
+[ "posts/2025-12-13-Gosh-I%27m-Tired.html"]
 [ "posts/2025-07-31-Trying-to-be-a-creative.html" ],
 [ "posts/2023-10-24-Sansui-AV-99.html" ],
 [ "posts/2023-10-24-The-Slicer.html" ],
