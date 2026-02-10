@@ -1,0 +1,10 @@
+body {
+	background: rgb(24, 0, 35);
+	font-family: "Roboto Slab", serif;
+    font-weight: 300;
+    color: white;
+}
+
+dt {
+    font-weight: 600;
+}
