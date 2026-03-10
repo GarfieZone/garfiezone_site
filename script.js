@@ -48,6 +48,8 @@ let postsArray = [
 //[ "posts/" ],
 //
 //[ "posts/2025-08-09-The-Autism-Thang.html" ],
+//[ "posts/2026-02-23-Art,-and-how-I-feel-bad-about-it.html"],
+[ "posts/2026-03-10-Linux-Gaming:-My-Experience.html"],
 [ "posts/2026-01-05-2025-things.html"],
 [ "posts/2025-12-13-tech-code-dev-beep-boop.html"],
 [ "posts/2025-12-13-Gosh-I'm-Tired.html"],
@@ -61,7 +63,7 @@ let postsArray = [
 [ "posts/2023-10-04-Kodak-EasyShare-Z700.html" ],
 [ "posts/2023-10-03-Old-web-and-the-web-revival.html" ],
 [ "posts/2023-10-03-A-post.html" ],
-[ "posts/2023-10-02-Hi-this-is-new-blog.html" ] ];
+[ "posts/2023-10-02-Hi-this-is-new-blog.html" ];
 //XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 /*CAUTION!! BEGINNING OF MORE ADVANCED SECTION!
